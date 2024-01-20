@@ -1,1 +1,1 @@
-Hi, my name is brandon price!
+Big enthusiast of facial recognition and analysis
