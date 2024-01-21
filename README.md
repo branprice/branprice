@@ -1,1 +1,1 @@
-Interested in ML with faces and brains
+Into using ML to look at brains and faces
