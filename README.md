@@ -1,1 +1,1 @@
-Big enthusiast of facial recognition and analysis
+Interested in ML with faces and brains
